@@ -35,7 +35,7 @@
 
 #### 前台商城系统
 
-前端项目`mall-app-web`地址：敬请期待......
+前端项目`mall-app-web`地址：敬请期待.......
 
 项目演示地址：[http://www.macrozheng.com/app/index.html](http://www.macrozheng.com/app/index.html)
 
